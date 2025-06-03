@@ -1,3 +1,5 @@
+![Remove ClickUp Brain AI](https://github.com/0yz/remove-clickup-brain/blob/main/chrome/icon128.png?raw=true)
+
 # Remove ClickUp Brain AI
 
 Browser extension that removes AI-related elements from the ClickUp interface.
