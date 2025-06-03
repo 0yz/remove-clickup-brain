@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Remove ClickUp Brain AI",
+  "version": "1.0",
+  "description": "Removes AI-related elements from ClickUp interface",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://app.clickup.com/*"],
+      "css": ["styles.css"]
+    }
+  ],
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "0yz@0xc.eu"
+    }
+  }
+} 

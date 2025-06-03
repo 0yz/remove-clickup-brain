@@ -1,0 +1,18 @@
+/*
+https://github.com/0yz
+*/
+[class*="_ai-"],
+[class*="ai-task"],
+[class$="-ai"],
+[aria-label="Brain"],
+[data-chmln*="-ai-"],
+[data-chmln="search-with-ai"],
+[data-chmln="create-task-with-ai-button"],
+[class*="aiButton"],
+cu-dropdown-list-item.ng-star-inserted,
+.ai-button {
+    display:none!important;
+}
+.cu-task-hero-section__task-title {
+    margin-bottom:10px!important;
+}
