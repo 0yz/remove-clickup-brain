@@ -3,9 +3,6 @@
   "name": "Remove ClickUp Brain AI",
   "version": "1.0",
   "description": "Removes AI-related elements from ClickUp interface",
-  "permissions": [
-    "activeTab"
-  ],
   "content_scripts": [
     {
       "matches": ["*://app.clickup.com/*"],
