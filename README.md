@@ -6,8 +6,8 @@ Browser extension that removes AI-related elements from the ClickUp interface.
 
 ## Quick Install
 
-- [Add to Chrome](#)
-- [Add to Firefox](#)
+- [Add to Chrome](https://chromewebstore.google.com/detail/remove-clickup-brain-ai/pknjgemfhhedmhlngpmkdbglcielkbbo)
+- [Add to Firefox](https://addons.mozilla.org/en-US/firefox/addon/remove-clickup-brain/)
 
 ## Manual Installation
 
